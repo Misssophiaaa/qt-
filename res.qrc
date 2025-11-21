@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/ActionNew.png</file>
+        <file>img/ActionBackgroundcolor.png</file>
+        <file>img/ActionCopy.png</file>
+        <file>img/ActionCut.png</file>
+        <file>img/ActionEditorcolor.png</file>
+        <file>img/ActionExit.png</file>
+        <file>img/ActionFind.png</file>
+        <file>img/ActionFont.png</file>
+        <file>img/ActionFontcolor.png</file>
+        <file>img/ActionLineWrap.png</file>
+        <file>img/ActionOpen.png</file>
+        <file>img/ActionPaste.png</file>
+        <file>img/ActionRedo.png</file>
+        <file>img/ActionReplace.png</file>
+        <file>img/ActionSave.png</file>
+        <file>img/ActionSaveAs.png</file>
+        <file>img/ActionSelectAll.png</file>
+        <file>img/ActionShowLine.png</file>
+        <file>img/ActionStatusbar.png</file>
+        <file>img/ActionToolbar.png</file>
+        <file>img/ActionUndo.png</file>
+        <file>img/ActionAbout.png</file>
+        <file>img/images.png</file>
+    </qresource>
+</RCC>
